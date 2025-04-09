@@ -76,5 +76,5 @@ upstream all {
 
 ## 🧑‍💻 Autor
 
-Guilherme Gugelmin  
+Denilson Bonatti / Instrutor DIO
 Este projeto é de uso educacional e demonstração técnica.
