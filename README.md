@@ -1,4 +1,4 @@
-# Toshiro Shibakita - Exemplo Prático com PHP, Docker e NGINX
+# Exemplo Prático com PHP, Docker e NGINX
 
 Este projeto demonstra um ambiente básico de microsserviços utilizando **PHP**, **Docker** e **NGINX como Load Balancer**, com conexão a um banco de dados **MySQL**. A estrutura foi baseada em uma live coding do instrutor Denilson Bonatti (DIO).
 
