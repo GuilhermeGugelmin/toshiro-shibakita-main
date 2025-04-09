@@ -76,5 +76,6 @@ upstream all {
 
 ## 🧑‍💻 Autor
 
-Denilson Bonatti / Instrutor DIO
+Denilson Bonatti / Instrutor DIO 
+
 Este projeto é de uso educacional e demonstração técnica.
